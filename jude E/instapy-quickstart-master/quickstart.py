@@ -22,7 +22,7 @@ session = InstaPy(username=insta_username, password=insta_password)
 
 with smart_run(session):
     # settings
-    session.set_relationship_bounds(enabled=True,
+    session.set_relationship_bounds(enabled=True,potency_ratio = -1.34 > 1.35,
                                     max_followers=2500,max_following=2200)
 
     #use the value of `False` to permanently turn it off
@@ -37,8 +37,8 @@ with smart_run(session):
                          amount=random.randint(30, 50), interact=True)
     
     session.follow_by_tags(['#grandkid','#grandkids','#kids','#kid'],
-                         amount=random.randint(15, 25), interact=True) 
+                         amount=random.randint(10, 15), interact=True) 
     
-    session.unfollow_users(amount=random.randint(20, 35), instapy_followed_enabled=True, instapy_followed_param="nonfollowers", style="FIFO", unfollow_after=120*60*60, sleep_delay=600)
+    session.unfollow_users(amount=random.randint(15, 20), instapy_followed_enabled=True, instapy_followed_param="nonfollowers", style="FIFO", unfollow_after=120*60*60, sleep_delay=600)
     
     session.like_by_feed(amount=random.randint(30, 45), randomize=True, interact=True)
