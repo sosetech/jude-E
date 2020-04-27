@@ -1,0 +1,114 @@
+1587758586149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileOV14rX"
+1587758586916	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587758586947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587758586947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587758586948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587758586948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587758589946	Marionette	INFO	Listening on port 56109
+1587758589982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587758607183	Marionette	INFO	Stopped listening on port 56109
+[Parent 8968, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587760104756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileAFbQRF"
+1587760105430	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587760105463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587760105463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587760105463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587760105463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587760108468	Marionette	INFO	Listening on port 56617
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1587760158231	Marionette	INFO	Stopped listening on port 56617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587972214186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilejZAYiZ"
+1587972215272	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587972215307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587972215307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587972215307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587972215308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587972218399	Marionette	INFO	Listening on port 60932
+1587972218519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7518969656198246&output=html&h=250&slotname=7870440415&adk=1919724467&adf=2267985012&w=300&lmt=1587972240&psa=0&guci=2.2.0.0.2.2.0.0&format=300x250&url=https%3A%2F%2Fisitdownorjust.me%2Finstagram-com%2F&flash=0&wgl=1&dt=1587972239350&bpp=20&bdt=6455&fdt=967&idt=968&shv=r20200422&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=212439875131&frm=20&pv=2&ga_vid=206681099.1587972240&ga_sid=1587972240&ga_hid=1823967215&ga_fc=0&icsg=35252235085826&dssz=31&mdo=0&mso=0&u_tz=120&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=0&u_nmime=0&adx=30&ady=2657&biw=437&bih=732&scr_x=0&scr_y=0&eid=21065532&oid=3&pvsid=4438469496556556&pem=210&rx=0&eae=0&fc=896&brdim=4%2C4%2C4%2C4%2C1366%2C0%2C466%2C812%2C454%2C732&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&btvi=1&xpc=m2BJHhwsrI&p=https%3A//isitdownorjust.me&dtd=1010, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7518969656198246&output=html&h=250&slotname=7870440415&adk=1919724467&adf=2267985012&w=300&lmt=1587972240&psa=0&guci=2.2.0.0.2.2.0.0&format=300x250&url=https%3A%2F%2Fisitdownorjust.me%2Finstagram-com%2F&flash=0&wgl=1&dt=1587972239350&bpp=20&bdt=6455&fdt=967&idt=968&shv=r20200422&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=212439875131&frm=20&pv=2&ga_vid=206681099.1587972240&ga_sid=1587972240&ga_hid=1823967215&ga_fc=0&icsg=35252235085826&dssz=31&mdo=0&mso=0&u_tz=120&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=0&u_nmime=0&adx=30&ady=2657&biw=437&bih=732&scr_x=0&scr_y=0&eid=21065532&oid=3&pvsid=4438469496556556&pem=210&rx=0&eae=0&fc=896&brdim=4%2C4%2C4%2C4%2C1366%2C0%2C466%2C812%2C454%2C732&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&btvi=1&xpc=m2BJHhwsrI&p=https%3A//isitdownorjust.me&dtd=1010, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1587972568652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587972579573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587972586541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: Object
+1587973055418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587973133217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587973236392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1587973310634	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587973327243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587973334799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: Object
+1587973555902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587980768317	Marionette	INFO	Stopped listening on port 60932
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 11152, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://activity-stream/lib/ASRouterTargeting.jsm, line 689: TypeError: error.fileName is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
